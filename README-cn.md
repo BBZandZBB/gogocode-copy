@@ -2,11 +2,11 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
-## GoGoCode 是什么？到底是什么呢？
+## GoGoCode 是什么？到底是什么呢？是什么呢？
 
-[English version of README](README.md)
+[English version of README](README.md)——（删除）
 
-GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具，但相较于同类，它提供了更符合直觉的 API，非常的好用
+GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具，但相较于同类，它提供了更符合直觉的 API 代码转换超简单！
 
 -   一套类 Jquery 的 API 用来查找和处理 AST
 -   一套和正则表达式接近的语法用来匹配和替换代码
